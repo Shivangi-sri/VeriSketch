@@ -11,7 +11,7 @@ as a flowchart, and then **verifies the diagram back against the source** before
 
 ## Demo
 
-📹 **Demo video:** _add a link or embed here_
+📹 **Demo video:** 
 
 https://www.loom.com/share/d3f64d504aaf42de9f9f518c7ee92ffa
 
