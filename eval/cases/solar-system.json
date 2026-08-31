@@ -1,0 +1,16 @@
+{
+  "id": "solar-system",
+  "sourceText": "The Sun is at the center of the solar system. Mercury is the closest planet to the Sun. Venus is next, then Earth, then Mars. Beyond Mars are the gas giants Jupiter and Saturn, followed by Uranus and Neptune. A planet moves around the Sun in a regular orbit.",
+  "groundTruth": [
+    "The Sun is at the center of the solar system.",
+    "Mercury is the closest planet to the Sun.",
+    "Venus is next after Mercury.",
+    "Earth is after Venus.",
+    "Mars is after Earth.",
+    "Jupiter is beyond Mars.",
+    "Saturn is beyond Jupiter.",
+    "Uranus is beyond Saturn.",
+    "Neptune is beyond Uranus.",
+    "Planets move around the Sun in regular orbits."
+  ]
+}
